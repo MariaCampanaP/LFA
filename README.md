@@ -10,4 +10,16 @@ Este repositório reúne implementações de conceitos fundamentais de **Linguag
 
 ## ☕︎ Objetivo
 
-Os códigos servem como mateiral
+Os códigos servem como material de estudo e prática para reforçar os concetios abordados na disciplina
+
+## ☕︎ Tecnologias Utilizadas
+
+- Netbeans
+
+## ☕︎ Como Usar
+
+1. Clone o repositório para o seu computador:
+
+```bash
+git clone https://github.com/MariaCampanaP/LFA.git
+
