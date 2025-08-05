@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007F73&reversal=false"/>
 
-# ☕︎ Linguagens Formais e Autômatos (LFA) (em construção)
+# ☕︎ Linguagens Formais e Autômatos (LFA)
 
 Repositório contendo exercícios e projetos da disciplina **Linguagens Formais e Autômatos (LFA)** do segundo ano de **Ciência da Computação** na UNESPAR.
 
